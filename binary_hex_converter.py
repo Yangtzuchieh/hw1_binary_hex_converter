@@ -1,6 +1,3 @@
-
-
-
 def decimal_to_binary(decimal_number):
     binary_representation = ""
     while decimal_number > 0:
